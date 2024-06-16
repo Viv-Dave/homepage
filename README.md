@@ -1,2 +1,2 @@
 # homepage
-A Homepage with responsive web-design
+A Homepage template compatible for multiple device dimensions
